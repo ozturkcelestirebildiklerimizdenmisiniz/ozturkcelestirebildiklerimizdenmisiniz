@@ -1,0 +1,2 @@
+# ozturkcelestirebildiklerimizdenmisiniz
+Öztürkçe sözcük önergeci
